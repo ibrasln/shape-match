@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ShapeMatch.sln"
+    "dotnet.defaultSolution": "ShapeMatch.sln",
+    "dotnet.preferCSharpExtension": true
 }
